@@ -1,5 +1,5 @@
 ## Chrome Dino Game
-- This is a simple Chomr dino game made by using pygame library of python
+- This is a simple Chrome dino game made by using pygame library of python
 - To play the game do the following :
     - Clone the repo
       
@@ -23,15 +23,18 @@
           ```
 
         - start the game
+            - Windows
           
-          ```windows
+          ```
             python game.py
           ```
-
+          
+            - Linux and Mac
+          
           ```Linux and Mac
             python3 game.py
           ```
 
-- ![image](https://github.com/adiboy-23/Chrome-Dino-pygame/assets/123615666/e77af910-d214-462f-90a2-ddf32c498680)
+- ![image](https://github.com/adiboy-23/Chrome-Dino-pygame/assets/123615666/80943f77-ed1e-4b36-a736-fe045ead1a0e)
 
           
