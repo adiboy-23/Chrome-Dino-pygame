@@ -31,7 +31,7 @@
           
             - Linux and Mac
           
-          ```Linux and Mac
+          ``` Linux and Mac
             python3 game.py
           ```
 
