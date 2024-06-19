@@ -237,7 +237,7 @@ def main():
 
         score()
 
-        clock.tick(30)#setting the clock time
+        clock.tick(30)#setting the clock time(FPS)
         pygame.display.update()
 
 
